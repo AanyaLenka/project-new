@@ -1,0 +1,25 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+#h
+{
+width: 100%;
+margin: 0px;
+font-family: monospace;
+}
+
+button
+{
+text-align: center;
+width: 30%;
+}
+
+canvas
+{
+border-radius: 20px;
+border:2px solid mediumvioletred;
+margin-top:100px;
+}
